@@ -25,15 +25,6 @@
 
 ---
 
-### 📌 Projetos em destaque
-
-🔹 [ApiAgendamentos](https://github.com/Luciano-Filho/ApiAgendamentos) — API para gerenciamento de agendamentos de serviços  
-🔹 [API_Reservas](https://github.com/Luciano-Filho/API_Reservas) — Sistema de reservas com .NET  
-🔹 [CursoAPIs](https://github.com/Luciano-Filho/CursoAPIs) — Repositório de estudos em ASP.NET Core  
-🔹 [Criando-Telas](https://github.com/Luciano-Filho/Criando-Telas) — Interface gráfica com C# para estudos
-
----
-
 ### 📫 Contato
 
 - LinkedIn: [linkedin.com/in/olucianof](https://linkedin.com/in/olucianof)
